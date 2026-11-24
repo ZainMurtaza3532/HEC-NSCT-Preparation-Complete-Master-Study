@@ -22,7 +22,6 @@ Whether you are looking to download the complete **NSCT MCQs PDF** bank, underst
 - [High-Yield Exam Strategy for the National Standardized Computing Test 2026](#-high-yield-exam-strategy-for-the-national-standardized-computing-test-2026)
 - [Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [Recommended Online Practice Hubs](#-recommended-online-practice-hubs)
-- [Repository Setup & Git Instructions](#-repository-setup--git-instructions)
 - [License](#-license)
 
 ---
@@ -252,30 +251,6 @@ In addition to the curated playlists and links in [00-Master-Resources.pdf](./00
 | **Coding & Tracing** | [LeetCode](https://leetcode.com) / [HackerRank](https://hackerrank.com) | Fundamental algorithm implementation and logic challenges |
 | **Machine Learning** | [Kaggle Learn](https://www.kaggle.com/learn) | Practical micro-courses on ML models, data cleaning, and feature engineering |
 | **Cyber Security** | [TryHackMe](https://tryhackme.com) | Foundational networking, security principles, and web vulnerability rooms |
-
----
-
-## 🛠️ Repository Setup & Git Instructions
-
-To clone this repository to your local machine for offline study or push updates to your personal GitHub account:
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/ZainMurtaza3532/HEC-NSCT-Preparation-Complete-Master-Study.git
-
-# 2. Navigate into the folder
-cd HEC-NSCT-Preparation-Complete-Master-Study
-
-# 3. View all available NSCT MCQs PDF files
-ls -l *.pdf
-```
-
-If you make personal notes and wish to push them to your personal repository:
-```bash
-git add .
-git commit -m "Update study notes and progress checklist"
-git push origin main
-```
 
 ---
 
