@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="G9RG1pUQJmGTgC9rOwD_qhSlXbQ7idqsc9L6mzUImmg" />
-
 # HEC NSCT Preparation — Complete Master Study Guide & Free NSCT MCQs PDF | National Standardized Computing Test 2026
 
 [![HEC NSCT Preparation](https://img.shields.io/badge/HEC%20NSCT-Preparation%20Guide-blue.svg)](#)
